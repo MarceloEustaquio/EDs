@@ -30,7 +30,7 @@ void imprimirConjuntoPartes(int conjunto[], int tamanho) {
 }
 
 int main() {
-    int conjunto[] = {1, 2, 3};
+    int conjunto[] = {1, 2, 3, 4};
     int tamanho = sizeof(conjunto) / sizeof(conjunto[0]);
 
     printf("Conjunto das partes:\n");
